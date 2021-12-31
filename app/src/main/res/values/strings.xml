@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Estoque</string>
+    <!-- Atributos Produto -->
+    <string name="nome">Nome</string>
+    <string name="preco">Preço</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="descricao">Descricao</string>
+    <string name="unity">Unidade de medida</string>
+    <string name="data">Data de cadastro</string>
+    <string name="prodCod">Codigo do produto</string>
+    <string name="gtin">GTIN(Codigo de barras)</string>
+    <string name="rfid">RFID</string>
+    <string name="prodMin">Produto minimo</string>
+    <string name="prodMax">Produto maximo</string>
+    <string name="precoVenda">Preço de venda</string>
+    <string name="precoCompra">Preço de compra</string>
+    <string name="disp">Disponibilidade</string>
+    <string name="nomeCat">Nome da categoria</string>
+    <string name="codCat">Codigo da categoria</string>
+    <string name="nomeFornc">Empresa fornecedora</string>
+    <string name="nomeFant">Nome fantasia</string> <!-- Trocar por telefone ou CNPJ NO FUTURO -->
+    <!-- Atributos  -->
+    <string name="remove">Remove</string>
+</resources>
